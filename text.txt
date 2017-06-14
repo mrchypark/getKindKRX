@@ -1,0 +1,10 @@
+"x"
+"1" "°ø½Ãºä¾î
+//<![CDATA[
+    parent.setPath('','http://kind.krx.co.kr/external/2017/06/14/000454/20170614000072/70040.htm','/external/2017/06/14/000454/20170614000072/70040','01','30');
+    parent.$( \"#dialog-loading\" ).dialog( \"close\" );   
+    
+    
+//]]>
+
+"
